@@ -1,6 +1,6 @@
 /**
  * ! Coding for Design Final
- * ! Total Points: 70
+ * ! Total Points: 100
  */
 
 /**
@@ -22,25 +22,28 @@ let letters  = [
 ]
 
 /**
- * * Section 2: Functions - 10 points
+ * * Section 2: Functions - 30 points
  */
 
 /**
  * ! Q2: Create a fat arrow function that creates an h1 tag on the screen.  
  * !      Make the text of that h1 tag your name and your student # using javascript.
- * !      Write a class in the css file that changes the border to a colour of your choice
- * !      Use Javascript to add that class to the h1 tag
  * !      Use Javascript(no libraries) to add a click event that console logs the same text as on the h1 tag
+ * !
+ * !      Make a function expression version of the function, then make a fat arrow version of the function.
+ * !      Name each function slightly differently.
+ * !      Run all 3 functions.      
  */
 
 
 /**
- * * Section 3: Looping - 10 points
+ * * Section 3: Looping - 20 points
  */
 
 /**
  * ! Q3:  Take the sentence below, and using the split command(eg. stringName.split(" ")), transform
- * ! it into an array, then use an for loop running in reverse to write it in P tags on the screen
+ * ! it into an array, then using template literals, turn it back into a string, and write the string in
+ * ! a div tag back to the screen.
  */
 
 let sentence  = "much! very very so it love I Gosh ride. carnival a than fun more is Coding";
@@ -57,7 +60,7 @@ let sentence  = "much! very very so it love I Gosh ride. carnival a than fun mor
  * !    -winking face(with at least one circular eye)
  * !    -sleeping face
  * 
- * !  Use at least 6 shapes for your selection.  Be sure to make use of width, height, position, backgound colour
+ * !  Use at least 6 shapes for your selection.  Be sure to make use of width, height, position, left, top, backgound colour
  * !  rotation, display, and border
  * 
  * !  All styles created must be classes.  Classes may only be added using javaScript.  Put all instructions
