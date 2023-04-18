@@ -60,6 +60,6 @@ let sentence  = "much! very very so it love I Gosh ride. carnival a than fun mor
  * !  Use at least 6 shapes for your selection.  Be sure to make use of width, height, position, backgound colour
  * !  rotation, display, and border
  * 
- * !  All styles created must be classes.  Classes may only be added used DOM Manipulation.  Put all instructions
+ * !  All styles created must be classes.  Classes may only be added using javaScript.  Put all instructions
  * !  for making your shape in a function declaration.  Run your function to show the creation on screen.
  */
