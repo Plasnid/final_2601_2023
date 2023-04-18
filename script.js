@@ -9,7 +9,8 @@
 
 /** 
  * ! Q1: Using Array Co-ordinates, and the array below create 5 words
- * !  that contain at least 4 letters each.  Console log each word using template literals.
+ * !  that contain at least 4 letters each.  Console log and write each word to screen in p tags using template literals.
+ * !  Do not use + signs
  * 
 */
 
