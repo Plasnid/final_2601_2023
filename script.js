@@ -61,7 +61,7 @@ let sentence  = "much! very very so it love I Gosh ride. carnival a than fun mor
  * !    -winking face(with at least one circular eye)
  * !    -sleeping face
  * 
- * !  Use at least 6 shapes for your selection.  Be sure to make use of width, height, position, left, top, backgound colour
+ * !  Use at least 6 shapes for your selection.  Be sure to make use of width, height, position, left, top, background colour
  * !  rotation, display, and border
  * 
  * !  All styles created must be classes.  Classes may only be added using javaScript.  Put all instructions
